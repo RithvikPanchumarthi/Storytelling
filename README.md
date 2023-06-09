@@ -13,3 +13,4 @@ When creating a data visualization, it is important to keep the following princi
 **Visual appeal:** The visualization should be visually appealing and engaging.
 
 Data visualization can be a powerful tool for telling stories about data. By using data visualization effectively, you can help your audience to understand complex data and see the story that it tells
+ These are main things to consider for data visualization
